@@ -1,4 +1,4 @@
-Hey there 👋, I'm Sarthik Garg. I'm a cool programmer 😎 who can help you out with any errors and bugs 😉. I can develop some interesting softwares and applications 💪.
+Hey there 👋, I'm Sarthik Garg. I'm a cool programmer 😎 who can help you out with any errors and bugs 😉. I can develop some impressive softwares and web applications 💪.
 
 I know the following 👨‍🏫 technologies:
 
