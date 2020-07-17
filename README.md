@@ -14,7 +14,7 @@ Languages I know are:
 4. Python
 5. HTML-CSS
 
-Although my portfolio is in work in progress and due to procrastination and being lazy 😴, it will be in this status for a while, but you can check that out **here**
+Although my portfolio is in work in progress due to procrastination and being lazy 😴 and gonna be in this status for a while, you can check it out [**_here._**](https://mrbing47.github.io/Portfolio/)
 
 ```
 https://mrbing47.github.io/Portfolio/
