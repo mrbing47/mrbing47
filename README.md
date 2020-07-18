@@ -14,10 +14,10 @@ Languages I know are:
 4. Python
 5. HTML-CSS
 
-Although my portfolio is in work in progress due to procrastination and being lazy 😴 and gonna be in this status for a while, you can check it out [**_here._**](https://mrbing47.github.io/Portfolio/)
+Although my portfolio is in work in progress due to procrastination and being lazy 😴 and gonna be in this status for a while, you can check it out [**_here._**](https://mrbing47.github.io/)
 
 ```
-https://mrbing47.github.io/Portfolio/
+https://mrbing47.github.io/
 ```
 
 ## ⏳ My Stats
