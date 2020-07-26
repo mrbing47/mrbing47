@@ -26,7 +26,7 @@ https://mrbing47.github.io/
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mrbing47&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues)
 
-## 💕My Top Languages
+## 💕 My Top Languages
 
 ---
 
