@@ -14,7 +14,7 @@ Languages I know are:
 4. Python
 5. HTML-CSS
 
-Although my portfolio is in work in progress due to procrastination and being lazy 😴 and gonna be in this status for a while, you can check it out [**_here._**](https://mrbing47.github.io/)
+Here's my [**_portfolio website_**](https://mrbing47.github.io/). It is a very simple portfolio website with minimal and simple UI to provide as much information as possible in a brief manner. And also, feel free to [**_Contact Me_**](https://mrbing47.github.io/#contact-sec).
 
 ```
 https://mrbing47.github.io/
@@ -24,7 +24,13 @@ https://mrbing47.github.io/
 
 ---
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mrbing47&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["issues"])
+![My github stats](https://github-readme-stats.vercel.app/api?username=mrbing47&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues)
+
+## 💕My Top Languages
+
+---
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&username=mrbing47)
 
 ## 🙄 **TODOs**
 
