@@ -2,7 +2,7 @@ Hey there 👋, I'm Sarthik Garg. I'm a cool programmer 😎 who can help you ou
 
 I know the following 👨‍🏫 technologies:
 
-1. Backend Development (MEN stack) 🖥.
+1. Full Stack Development (MERN stack) 🖥.
 2. Android Application Development (Java) 📱.
 3. Machine Learning 🤖.
 
