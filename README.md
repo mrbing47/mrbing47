@@ -32,9 +32,3 @@ https://mrbing47.github.io/
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&username=mrbing47)
 
-## 🙄 **TODOs**
-
----
-
--   Learn React.js
--   Learn Angular.js
