@@ -11,8 +11,10 @@ Languages I know are:
 1. C++
 2. Java
 3. JavaScipt
-4. Python
-5. HTML-CSS
+4. Typescript
+5. Python
+6. Kotlin
+7. HTML-CSS
 
 Here's my [**_portfolio website_**](https://mrbing47.github.io/). It is a very simple portfolio website with minimal and simple UI to provide as much information as possible in a brief manner. And also, feel free to [**_Contact Me_**](https://mrbing47.github.io/#contact-sec).
 
